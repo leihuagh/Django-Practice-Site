@@ -5,14 +5,14 @@
 ### Global Environment
 
 - Python 3.7.3
-- virtualenv 6.4.3
+- virtualenv 6.5.0
 - pylint
 - autopep8
 - flake8
 
 ### Virtual Environment
 
-- Django 2.2
+- Django 2.2.1
 - pillow
 
 ## Commands

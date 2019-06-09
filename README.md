@@ -5,7 +5,7 @@
 ### Global Environment
 
 - Python 3.7.3
-- virtualenv 6.6.0
+- virtualenv 16.6.0
 - pylint
 - autopep8
 - flake8
@@ -14,6 +14,7 @@
 
 - Django 2.2.2
 - pillow
+- django-crispy-forms
 
 ## Commands
 
